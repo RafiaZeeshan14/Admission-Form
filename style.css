@@ -1,0 +1,404 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.Field_Set{
+   
+    width: 80%;
+    margin-left: 9%;
+    
+}
+.image {
+    height: 50px;
+    width: 40px;
+    display: flex;
+    padding-top: 40px;
+}
+
+.info h3 {
+
+    padding-left: 71%;
+
+}
+
+.info p {
+    padding-left: 71%;
+
+}
+
+.heading {
+    padding-left: 2%;
+    font-size: 2em;
+    color: rgb(150, 148, 148);
+}
+
+.para {
+    padding-left: 2%;
+}
+
+.input-box {
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.input-b {
+   
+    border-style: solid;
+    border-width: 1px;
+    padding: 9px;
+    width: 29%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+    
+}
+
+.input-box p {
+    display: inline;
+}
+
+.F {
+    padding-left: .5%;
+    font-size: 13px;
+}
+
+.M {
+    padding-left: 24%;
+    font-size: 13px;
+}
+
+.L {
+    padding-left: 22%;
+    font-size: 13px;
+}
+
+.form-select {
+    border-style: solid;
+    border-width: 1px;
+    padding: 9px;
+    width: 29%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.Mon {
+    padding-left: .5%;
+    font-size: 13px;
+}
+
+.Day {
+    padding-left: 26%;
+    font-size: 13px;
+}
+
+.Year {
+    padding-left: 26%;
+    font-size: 13px;
+}
+
+.Phone {
+    border-style: solid;
+    border-width: 1px;
+    padding: 12px;
+    width: 55%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.email {
+    border-style: solid;
+    border-width: 1px;
+    padding: 12px;
+    width: 50%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.mail {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 95%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.city {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 40%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.C {
+    padding-left: .5%;
+    font-size: 13px;
+}
+
+.S {
+    padding-left: 41%;
+    font-size: 13px;
+}
+
+.LN {
+    padding-left: 35%;
+    font-size: 13px;
+}
+
+.Econ {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 40%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.Rel {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 60%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+
+}
+
+.email2 {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 60%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.Phone2 {
+    border-style: solid;
+    border-width: 1px;
+    padding: 11px;
+    width: 55%;
+    border-radius: 5px;
+    border-color: rgb(219, 211, 211);
+}
+
+.button {
+    width: 180px;
+    color: #000;
+    font-size: 14px;
+    padding: 10px;
+    background: burlywood;
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    margin-bottom: 50%;
+    transform: translate(15%, -50%);
+    transition: 0.4s;
+
+
+}
+
+.button:hover {
+    background: burlywood;
+    border: 1px solid blacK;
+}
+
+.input-box .First:hover {
+
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.input-box .Middle:hover {
+
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.input-box .Last:hover {
+
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.form-select:hover {
+
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.Gender:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+
+}
+
+.Phone:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.email:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.mail:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+
+}
+
+.city:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.Econ:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.Rel:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+}
+
+.Lang:hover {
+    transition: 0.4s;
+    background: transparent;
+    border-color: #2e69ff;
+    box-shadow: 0 0 0 3px rgba(46, 105, 255, .25);
+    box-sizing: border-box;
+
+}
+
+/* Default styling for all screen sizes */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+@media (min-width:359px) and (max-width:485px){
+    .input-b{
+        width: 24%;
+    }
+    .F{
+        padding-left: .2%;
+    }
+    .M{
+        padding-left: 10%;
+    }
+    .L{
+        padding-left: 13%;
+    }
+}
+@media (min-width:500px) and (max-width: 687px){
+    .input-b{
+        width: 27%;
+    }
+    .F{
+        padding-left: .3%;
+    }
+    .M{
+        padding-left: 20%;
+    }
+    .L{
+        padding-left: 20%;
+    }
+}
+/* Styling for smaller screens */
+@media (max-width: 790px) {
+    .Field_Set {
+        width: 90%;
+        margin-left: 2%;
+    }
+
+    /* Adjust the image size */
+    .image {
+        height: 30px;
+        width: 20px;
+    }
+
+    .info h3,
+    .info p {
+        padding-left: 5%;
+    }
+
+    .heading {
+        font-size: 1.5em;
+        padding-left: 1%;
+    }
+    .para{
+        padding-left: 1%;
+    }
+    .input-box{
+        padding-left: 1%;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .Field_Set {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    
+    .image {
+        height: 70px;
+        width: 50px;
+    }
+
+    .info h3,
+    .info p {
+        padding-left: 60%;
+    }
+
+    .heading {
+        font-size: 2.5em;
+    }
+}
+
+
+.Field_Set {
+    height: auto; 
+    padding: 20px;
+}
+
+
+
