@@ -16,7 +16,7 @@ It provides an intuitive interface for applicants to enter their personal and ac
 ## Technologies Used
 This project makes use of the following technologies:
 - HTML/CSS
-- 
+
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository from GitHub.
