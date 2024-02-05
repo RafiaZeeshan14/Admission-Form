@@ -10,7 +10,6 @@ It provides an intuitive interface for applicants to enter their personal and ac
 ## Features
 - User-friendly form interface for entering personal and academic details
 - File upload functionality for submitting required documents
-- Validation checks to ensure accurate and complete form submission
 - Submission confirmation and acknowledgment for applicants
 
 ## Technologies Used
